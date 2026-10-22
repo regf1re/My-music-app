@@ -117,11 +117,9 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone <URL-ВАШЕГО-РЕПОЗИТОРИЯ>
+git clone https://github.com/regf1re/My-music-app.git
 cd <ПАПКА-ПРОЕКТА>
 ```
-
-Замените `<URL-ВАШЕГО-РЕПОЗИТОРИЯ>` на адрес репозитория GitHub.
 
 ### 2. Открытие в Android Studio
 
